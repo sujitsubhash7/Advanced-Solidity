@@ -6,6 +6,27 @@ Create an ERC20 token that will be minted through a Crowdsale contract that you 
 
 ## Solidity Contracts
 
-Compile the codes in following solidity contracts using remix ![remix link](https://remix.ethereum.org/)
+Compile the codes in following solidity contracts using [remix](https://remix.ethereum.org/)
 * [Pupper Coin Contract](PupperCoin.sol)
 * [Crowdsale Contract](Crowdsale.sol)
+
+## Contract Deployment
+
+![](Images2/pupercoinsale_deployer.JPG)
+
+![](Images2/pupercoinsale_deployer_confirmed.JPG)
+
+![](Images2/puppercoin_deployment_metamask.JPG)
+
+![](Images2/puppercoin_deployment.JPG)
+
+![](Images2/puppercoinsale_deploy.JPG)
+
+![](Images2/puppercoinsale_transaction.JPG)
+
+![](Images2/puppercoin_mint.JPG)
+
+![](Images2/puppercoin_mint_metamask.JPG)
+
+![](Images2/puppercoin_mint_confirmation.JPG)
+
